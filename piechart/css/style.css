@@ -1,0 +1,26 @@
+.getbody{
+    background-image: url('../img/bg.jpg');
+}
+
+h1,h2, label{
+    color:white;
+}
+
+.moveItem{
+    padding-left: 450px;
+    padding-top: 30px;
+
+}
+.view{
+    background-image: url('../img/kk.gif');
+    background-repeat: no-repeat;
+    background-position: 100%;
+}
+.viewchart{
+    background-image: url('../img/gbd.gif');
+}
+.dataset{
+    color:white;
+    font-size: 35px;
+}
+
